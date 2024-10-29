@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "./backend/.venv/bin/python3",
+    "python.terminal.activateEnvironment": true,
+    "files.watcherExclude": {
+        "**/routeTree.gen.ts": true
+    },
+    "search.exclude": {
+        "**/routeTree.gen.ts": true
+    },
+    "files.readonlyInclude": {
+        "**/routeTree.gen.ts": true
+    }
+}
